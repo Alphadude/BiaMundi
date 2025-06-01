@@ -3044,7 +3044,7 @@ footer .smooth-anchor:hover::after {
 }
 
 .odd .btn {
-  background-color: var(--primary-t-color-3);
+  background-color: var(--invalid-color);
 }
 .odd .btn.btn-outline {
   background-color: transparent;
